@@ -1,4 +1,3 @@
-
 public class Recursive_Print {
     Node head;
 
@@ -14,7 +13,7 @@ public class Recursive_Print {
         if(head==null){
             return;
         }
-        System.out.println(head.data+" ");
+        System.out.print(head.data+" ");
         print(head.next);
     }
 }

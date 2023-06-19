@@ -1,0 +1,2 @@
+public class InsertAtBegning {
+}
